@@ -1,0 +1,17 @@
+dataset,model,by,variable,acc
+Stem cell,Ordinal logistic regression,By observations,Univariate,0.283
+Wedge,Ordinal logistic regression,By observations,Univariate,0.643
+Stem cell,Ordinal random forest,By observations,Univariate,0.507
+Wedge,Ordinal random forest,By observations,Univariate,0.643
+Stem cell,Ordinal logistic regression,By drugs,Univariate,0.286
+Wedge,Ordinal logistic regression,By drugs,Univariate,0.678
+Stem cell,Ordinal random forest,By drugs,Univariate,0.536
+Wedge,Ordinal random forest,By drugs,Univariate,0.75
+Stem cell,Ordinal logistic regression,By observations,Multivariate,0.588
+Wedge,Ordinal logistic regression,By observations,Multivariate,0.661
+Stem cell,Ordinal random forest,By observations,Multivariate,0.602
+Wedge,Ordinal random forest,By observations,Multivariate,0.822
+Stem cell,Ordinal logistic regression,By drugs,Multivariate,0.643
+Wedge,Ordinal logistic regression,By drugs,Multivariate,0.75
+Stem cell,Ordinal random forest,By drugs,Multivariate,0.607
+Wedge,Ordinal random forest,By drugs,Multivariate,0.822
