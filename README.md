@@ -27,7 +27,7 @@ The comparison of three-category prediction accuracy among ordinal logistic regr
 
 ### 6. figure_paper.R
 
-All the codes that generate figures in the paper.
+All the codes that draw figures in the paper.
 
 ### 7. Result
 
