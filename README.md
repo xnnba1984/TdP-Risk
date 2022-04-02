@@ -1,6 +1,6 @@
 # Statistical Learning in Preclinical Drug Proarrhythmic Assessment
 
-This repository contains the R code to replicate the result in the paper 'Statistical Learning in Preclinical Drug Proarrhythmic Assessment'. Please check our [preprint](https://arxiv.org/abs/2108.00543) for details.
+This repository contains the R code to replicate the result in the paper 'Statistical Learning in Preclinical Drug Proarrhythmic Assessment'. The paper is to appear on the Journal of Biopharmaceutical Statistics. Please check our [preprint](https://arxiv.org/abs/2108.00543) for details.
 
 ## Code Structure
 
@@ -32,3 +32,11 @@ All the codes that draw figures in the paper.
 ### 7. Result
 
 All the numerical results output by the code. These results generate the figures and tables in the paper.
+
+# Contact
+If you have any suggestions or comments on this study, please contact Nan Miles Xi (<mxi1@luc.edu>). 
+
+# Citation
+If you use the R code in your work, please cite 
+
+Xi, M.N., Hsu, Y., Dang, Q., and Huang, D. (2022). Statistical Learning in Preclinical Drug Proarrhythmic Assessment. arXiv:2108.00543.
